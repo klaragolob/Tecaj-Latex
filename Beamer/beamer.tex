@@ -1,0 +1,109 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[slovene]{babel}
+\usepackage{multicol}
+\usepackage{multicol}
+
+\usetheme{Madrid}
+%\usecolortheme{crane}
+\usefonttheme{structureitalicserif}
+
+\setbeamercolor{background canvas}{bg=pink}
+
+\definecolor{mojabarva}{rgb}{.5,.125,.25}
+\usecolortheme[named=mojabarva]{structure}
+
+
+\title{Beamer}
+\subtitle{Tečaj Latex}
+\author{Klara Golob}
+\institute{Zoom}
+\date{\today}
+
+
+\begin{document}
+
+\selectlanguage{slovene}
+\frame{\titlepage}
+
+
+\begin{frame}
+\frametitle{Opis tečaja}
+To je tečaj Latexa. \pause
+\\
+Res se mamo fino!
+
+\end{frame}
+
+\begin{frame}
+
+\frametitle{Alineje}
+
+\begin{itemize}
+\item <1-> Prva alineja.
+\item <2-> Druga alineja.
+\end{itemize}
+
+
+\end{frame}
+
+\begin{frame}
+Voditejica tečaja je 
+\only<1>{\line(1,0){3cm}}
+\only<2>{\textcolor{magenta}{Klara}}
+\
+
+\end{frame}
+
+
+\begin{frame}
+
+
+\setbeamercolor{block body}{fg=white, bg=purple}
+\setbeamercolor{block title}{fg=blue, bg=green}
+\begin{block}{Ime bloka}
+To je naš pisan blok.
+\end{block}
+
+\begin{alertblock}{ime bloka}
+Poglejmo kaj dobimo tukaj.
+\end{alertblock}
+
+\end{frame}
+
+
+\begin{frame}
+
+%\begin{enumerate}
+
+%\begin{muticols}{3}{
+%\item Prva vrstica
+%\item Druga vrstica}
+%\onslide<2->{
+%\item Tretja vrstica
+%\item Četrta vrstica}
+%\onslide<3->{
+%\item Peta vrstica 
+%\item Šesta vrstica}
+%\end{muticols}
+
+%\end{enumerate}
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
