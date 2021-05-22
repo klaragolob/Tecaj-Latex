@@ -1,0 +1,34 @@
+\babel@toc {slovene}{}
+\babel@toc {slovene}{}
+\babel@toc {slovene}{}
+\babel@toc {slovene}{}
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Uvod}{4}%
+\contentsline {section}{\numberline {2}Inženir}{4}%
+\contentsline {subsection}{\numberline {2.1}Inženir kot zdravnik}{4}%
+\babel@toc {slovene}{}
+\babel@toc {english}{}
+\contentsline {subsubsection}{\numberline {2.1.1}Prvič v ordinaciji}{5}%
+\contentsline {subsubsection}{\numberline {2.1.2}Drugič v ordinaciji}{5}%
+\contentsline {subsubsection}{\numberline {2.1.3}Tretjič v ordinaciji}{5}%
+\contentsline {subsubsection}{\numberline {2.1.4}Stanje}{5}%
+\babel@toc {slovene}{}
+\babel@toc {english}{}
+\babel@toc {slovene}{}
+\babel@toc {english}{}
+\contentsline {section}{\numberline {3}Matematiki}{6}%
+\contentsline {subsection}{\numberline {3.1}Najlepše matematične formule}{6}%
+\contentsline {subsubsection}{\numberline {3.1.1}Riemannova zeta funkcija}{6}%
+\contentsline {subsubsection}{\numberline {3.1.2}Einsteinove enaˇcbe polja}{7}%
+\contentsline {subsubsection}{\numberline {3.1.3}Drugi osnovni izrek infinitezimalnega raˇcuna}{7}%
+\contentsline {subsubsection}{\numberline {3.1.4}Integriranje parcialnih ulomkov}{7}%
+\contentsline {subsubsection}{\numberline {3.1.5}Funkcija, ki nima določen integral}{7}%
+\contentsline {subsubsection}{\numberline {3.1.6}Sistem linearnih enačb}{7}%
+\contentsline {subsection}{\numberline {3.2}Koliko matematikov potebujeˇs, da zamenjajo ˇzarnico?}{8}%
+\contentsline {section}{\numberline {4}Fiziki}{8}%
+\contentsline {subsection}{\numberline {4.1}Skrivalnice}{8}%
+\contentsline {section}{\numberline {5}Polet z balonom}{8}%
+\contentsline {subsection}{\numberline {5.1}Svetloba}{8}%
+\contentsline {section}{\numberline {6}Rezultati}{9}%
+\contentsline {section}{\numberline {7}Zaključek}{9}%
+\babel@toc {slovene}{}
